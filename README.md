@@ -20,7 +20,7 @@ Before running the project, ensure you have the following:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/negotiation-chatbot-api.git
+git clone https://github.com/Atulsah17/BargainBot-AI-Powered-Price-Negotiator
 
 Step 2: Install Dependencies
 
